@@ -1,0 +1,4 @@
+project_id = "gwxqetrzivoewogdedkv"
+
+[functions.import-insights]
+verify_jwt = false
